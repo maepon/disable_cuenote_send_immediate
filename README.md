@@ -1,0 +1,1 @@
+disable_cuenote_send_immediate
