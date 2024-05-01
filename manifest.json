@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Disable Cuenote Send Immediate",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "ユミルリンク「Cuenote FC」の即時配信の選択を無効化する機能拡張",
   "icons": {
     "16": "icon16.png",
