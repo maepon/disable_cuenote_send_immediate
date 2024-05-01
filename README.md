@@ -18,3 +18,4 @@ https://github.com/maepon/disable_cuenote_send_immediate/blob/master/PrivacyPoli
 
 1.0.0 : リリース
 1.0.1 : 対象ドメインを変更
+2.0.0 : ManifestをV3に変更
